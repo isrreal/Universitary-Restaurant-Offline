@@ -1,0 +1,70 @@
+ nome: AGATHA VICTORIA CORREA NUNES 
+ - CPF: 66958985836 
+ - função: Gerente 
+ - salario: 5000,34
+
+
+
+ nome: ALANA COSTA DO NASCIMENTO
+ - CPF: 52495745947 
+ - função: Auxiliar de limpeza
+ - salario: 1212,45
+
+
+
+ nome: FRANCISCO IARLEY SILVA MOURAO
+ - CPF: 35094540978 
+ - função: Auxiliar de limpeza
+ - salario: 1212,45
+
+
+
+ nome: FRANCISCO ROBSON DA SILVA MONTEIRO
+ - CPF: 77419726672 
+ - função: Auxiliar de cozinha
+ - salario: 1212,45
+
+
+
+ nome: JOHN ALLYSSON DE OLIVEIRA SOUZA 
+ - CPF: 78050071682 
+ - função: Cozinheiro
+ - salario: 2345,32
+
+
+
+ nome: JOSE KEVIN QUEIROZ DE OLIVEIRA
+ - CPF: 58872866764 
+ - função: Cozinheiro
+ - salario: 2345,32
+
+
+
+ nome: LIDIA LIMA RIBEIRO
+ - CPF: 80547868848 
+ - função: Fiscal
+ - salario: 1212,45
+
+
+
+ nome: LUAN HENRIQUE DE SOUZA LIMA
+ - CPF: 73234134155 
+ - função: Fiscal
+ - salario: 1212,45
+
+
+
+ nome: LUCAS LEVY DO NASCIMENTO DE SOUSA
+ - CPF: 2237729873 
+ - função: Garçom
+ - salario: 1212,45
+
+
+
+ nome: PIERRE TOBIAS DA SILVA SANTOS
+ - CPF: 41852079139 
+ - função: Garçom
+ - salario: 1212,45
+
+
+
